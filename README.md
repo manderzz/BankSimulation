@@ -3,6 +3,9 @@ Maxim & Faraz
 cmpt 225 
 
 
-The simulation application executes using the command:
-"./sApp < simulationShuffled3.in" at the command line.
+how to run: 
+1) right click on file > open in terminal
+2) "make clean"
+3) "make all"
+4) "./sApp < simulationShuffled3.in" 
 
