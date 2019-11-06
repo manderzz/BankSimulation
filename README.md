@@ -1,10 +1,11 @@
 # Bank Simulation
-This project was created for an assignment in CMPT 225. The purpose of this assignemnt was to create an event-driven simulation of a bank. It takes user inputs from the command line and outputs the correct corresponding response. 
+The purpose of this assignemnt was to create an event-driven simulation of a bank. It takes user inputs from the command line and outputs the correct corresponding response. 
 
 ## Features:
 - Queue system
 - Priority queue system
-- Displays statistics
+- Displays statistics, arrival time, departure time, and wait time
+- parses a give text file for input
 
 ## How to run: 
 1) Open Terminal
